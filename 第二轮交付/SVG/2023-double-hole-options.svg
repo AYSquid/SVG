@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="395" viewBox="0 0 900 395" role="img" aria-labelledby="title description">
+<title id="title">2023 / 双孔衍射选项</title><desc id="description">示意位置不代表原题数值；透明背景，可编辑路径与文字。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#302D27" stroke-width="1.3"/></marker>
+<marker id="answer-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#346D68" stroke-width="1.4"/></marker>
+</defs>
+<style>
+.line {fill:none;stroke:#302D27;stroke-width:1.2;stroke-linejoin:round;stroke-linecap:round;vector-effect:non-scaling-stroke}
+.ray {stroke-width:1.5}
+.answer {stroke:#346D68;stroke-width:1.5}
+text {fill:#302D27;font:28px 'Noto Sans CJK SC','Microsoft YaHei',sans-serif}
+.math {font-family:'DejaVu Sans',sans-serif;font-style:italic;font-size:30px}
+.heading {font-size:30px;font-weight:600}
+.note {font-size:25px}
+.number {font-size:25px;fill:#346D68}
+.result {fill:#346D68}
+.caution {fill:#976333}
+</style>
+<text x="35" y="45" class="heading" text-anchor="start">2023 / 双孔衍射选项</text>
+<text x="150" y="99" class="heading" text-anchor="middle">A</text>
+<text x="440" y="99" class="heading" text-anchor="middle">B</text>
+<style>
+ .secondary{stroke:#976333;stroke-width:1.5}
+ @media (prefers-color-scheme:dark){
+ .line{stroke:#E8DCC3}text{fill:#E8DCC3}.answer{stroke:#9CCBBB}.result,.number{fill:#9CCBBB}
+ .secondary{stroke:#DDB587}.caution{fill:#DDB587}
+ #arrow path{stroke:#E8DCC3}#answer-arrow path{stroke:#9CCBBB}
+ circle[style]{fill:#E8DCC3!important}
+ }
+ </style>
+<text x="735" y="99" class="heading" text-anchor="middle">C</text>
+<circle class="line " cx="150" cy="220" r="14"/>
+<circle class="line " cx="150" cy="220" r="32"/>
+<circle class="line " cx="150" cy="220" r="52"/>
+<circle class="line " cx="440" cy="220" r="14"/>
+<circle class="line " cx="440" cy="220" r="32"/>
+<circle class="line " cx="440" cy="220" r="52"/>
+<circle class="line " cx="670" cy="220" r="14"/>
+<circle class="line " cx="670" cy="220" r="32"/>
+<circle class="line " cx="670" cy="220" r="52"/>
+<circle class="line " cx="803" cy="220" r="14"/>
+<circle class="line " cx="803" cy="220" r="32"/>
+<circle class="line " cx="803" cy="220" r="52"/>
+<defs><clipPath id="clip-v"><circle cx="150" cy="220" r="58"/></clipPath></defs>
+<g clip-path="url(#clip-v)">
+<path class="line " d="M99,155 L99,285"/>
+<path class="line " d="M116,155 L116,285"/>
+<path class="line " d="M133,155 L133,285"/>
+<path class="line " d="M150,155 L150,285"/>
+<path class="line " d="M167,155 L167,285"/>
+<path class="line " d="M184,155 L184,285"/>
+<path class="line " d="M201,155 L201,285"/>
+</g>
+<defs><clipPath id="clip-h"><circle cx="440" cy="220" r="58"/></clipPath></defs>
+<g clip-path="url(#clip-h)">
+<path class="line " d="M375,169 L505,169"/>
+<path class="line " d="M375,186 L505,186"/>
+<path class="line " d="M375,203 L505,203"/>
+<path class="line " d="M375,220 L505,220"/>
+<path class="line " d="M375,237 L505,237"/>
+<path class="line " d="M375,254 L505,254"/>
+<path class="line " d="M375,271 L505,271"/>
+</g>
+<text x="40" y="357" class="note" text-anchor="start">原选项的方向与组合示意；不表示定量光强。</text>
+</svg>

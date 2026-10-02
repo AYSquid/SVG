@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="455" viewBox="0 0 900 455" role="img" aria-labelledby="title description">
+<title id="title">2021 / 焦面孔阑题图</title><desc id="description">示意位置不代表原题数值；透明背景，可编辑路径与文字。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#302D27" stroke-width="1.3"/></marker>
+<marker id="answer-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#346D68" stroke-width="1.4"/></marker>
+</defs>
+<style>
+.line {fill:none;stroke:#302D27;stroke-width:1.2;stroke-linejoin:round;stroke-linecap:round;vector-effect:non-scaling-stroke}
+.ray {stroke-width:1.5}
+.answer {stroke:#346D68;stroke-width:1.5}
+text {fill:#302D27;font:28px 'Noto Sans CJK SC','Microsoft YaHei',sans-serif}
+.math {font-family:'DejaVu Sans',sans-serif;font-style:italic;font-size:30px}
+.heading {font-size:30px;font-weight:600}
+.note {font-size:25px}
+.number {font-size:25px;fill:#346D68}
+.result {fill:#346D68}
+.caution {fill:#976333}
+</style>
+<text x="35" y="45" class="heading" text-anchor="start">2021 / 焦面孔阑题图</text>
+<path class="line " d="M40,245 L865,245" stroke-dasharray="5 6"/>
+<path class="line " d="M330,125 L330,365"/>
+<style>
+ .secondary{stroke:#976333;stroke-width:1.5}
+ @media (prefers-color-scheme:dark){
+ .line{stroke:#E8DCC3}text{fill:#E8DCC3}.answer{stroke:#9CCBBB}.result,.number{fill:#9CCBBB}
+ .secondary{stroke:#DDB587}.caution{fill:#DDB587}
+ #arrow path{stroke:#E8DCC3}#answer-arrow path{stroke:#9CCBBB}
+ circle[style]{fill:#E8DCC3!important}
+ }
+ </style>
+<text x="330" y="105" class="math" text-anchor="middle">L₁</text>
+<path class="line " d="M606,125 L606,365"/>
+<text x="606" y="105" class="math" text-anchor="middle">L₂</text>
+<path class="line " d="M468,135 L468,205"/>
+<path class="line " d="M468,285 L468,355"/>
+<circle class="line " cx="468" cy="245" r="2.4" style="fill:#302D27;stroke:none"/>
+<circle class="line " cx="468" cy="205" r="2.4" style="fill:#302D27;stroke:none"/>
+<text x="494" y="193" class="math" text-anchor="middle">P₁</text>
+<text x="494.45" y="309" class="math" text-anchor="start">P₂</text>
+<text x="387.5" y="335" class="note" text-anchor="middle">P = F₂</text>
+<path class="line ray" d="M330,221 L606,189"/>
+<path class="line ray" d="M445.92,207.56 L490.08,202.44" marker-end="url(#arrow)"/>
+<text x="40" y="430" class="note" text-anchor="start">仅给出轴上光线的镜间段；P 与 F₂ 重合。</text>
+</svg>

@@ -1,0 +1,27 @@
+﻿题目ID,年份,题号,用途,旧网站路径,新交付文件,状态
+past-2016-f7305958f753ad7e,2016,28.,stemImages,assets/audit-diagrams/2016-cavity-source.svg,SVG/2016-cavity-source.svg,已重绘并检查
+past-2016-8dc3ac558639ae05,2016,1.,stemImages,assets/audit-diagrams/2016-point-source.svg,SVG/2016-point-source.svg,已重绘并检查
+past-2017-113751e16774ecb7,2017,10,stemImages,assets/audit-diagrams/2017-qswitch-source.svg,SVG/2017-qswitch-source.svg,已重绘并检查
+past-2018-ecb5b6ff81ba0ef5,2018,19.,stemImages,assets/audit-diagrams/2018-homogeneous-gain-options.svg,SVG/2018-homogeneous-gain-options.svg,已重绘并检查
+past-2018-d68679299862b42a,2018,七、闪耀光栅（10 分）,analysisImages,assets/audit-diagrams/blazed-grating-angle-conventions.svg,SVG/blazed-grating-angle-conventions.svg,条件图：先读核对报告
+past-2024-e31566f101993013,2024,4.,analysisImages,assets/audit-diagrams/blazed-grating-angle-conventions.svg,SVG/blazed-grating-angle-conventions.svg,条件图：先读核对报告
+past-2020-baad089ef2c8291b,2020,2.（10 分）　引自 2006 年牛顿环计算题,stemImages,assets/audit-diagrams/newton-contact-source.svg,SVG/newton-contact-source.svg,已重绘并检查
+past-2026-06f1df120fd02bf9,2026,2.,stemImages,assets/audit-diagrams/newton-contact-source.svg,SVG/newton-contact-source.svg,已重绘并检查
+past-2020-7e0867f4a25129ac,2020,3.（10 分）,stemImages,assets/audit-diagrams/2020-alternating-slits.svg,SVG/2020-alternating-slits.svg,已重绘并检查
+past-2021-acce7ae6e80c8a89,2021,1.（6 分）,stemImages,assets/audit-diagrams/prism-2021-source.svg,SVG/prism-2021-source.svg,已重绘并检查
+past-2021-acce7ae6e80c8a89,2021,1.（6 分）,analysisImages,assets/audit-diagrams/prism-2021-axes-roof.svg,SVG/prism-2021-axes-roof.svg,已重绘并检查
+past-2021-d1a3372210c1a949,2021,2.（9 分）,stemImages,assets/audit-diagrams/2021-aperture-source-v2.svg,SVG/2021-aperture-source-v2.svg,已重绘并检查
+past-2021-d1a3372210c1a949,2021,2.（9 分）,analysisImages,assets/audit-diagrams/2021-aperture-solution.svg,SVG/2021-aperture-solution.svg,已重绘并检查
+past-2023-dffe31562a8d89bc,2023,18.,stemImages,assets/audit-diagrams/2023-double-hole-options.svg,SVG/2023-double-hole-options.svg,已重绘并检查
+past-2025-acce7ae6e80c8a89,2025,1.,stemImages,assets/audit-diagrams/prism-2025-source.svg,SVG/prism-2025-source.svg,已重绘并检查
+past-2025-acce7ae6e80c8a89,2025,1.,analysisImages,assets/audit-diagrams/prism-2025-axes-roof.svg,SVG/prism-2025-axes-roof.svg,条件图：先读核对报告
+past-2025-968eea5ae2e6316a,2025,3.,stemImages,assets/audit-diagrams/2025-young-source.svg,SVG/2025-young-source.svg,已重绘并检查
+past-2025-d1a3372210c1a949,2025,2.,stemImages,assets/audit-diagrams/2025-pupil-source.svg,SVG/2025-pupil-source.svg,已重绘并检查
+past-2025-d1a3372210c1a949,2025,2.,analysisImages,assets/audit-diagrams/2025-pupil-solution.svg,SVG/2025-pupil-solution.svg,已重绘并检查
+past-2026-e31566f101993013,2026,4.,analysisImages,assets/audit-diagrams/2026-filter-solution.svg,SVG/2026-filter-solution.svg,已重绘并检查
+past-2026-acce7ae6e80c8a89,2026,1.,stemImages,assets/audit-diagrams/prism-2026-source.svg,SVG/prism-2026-source.svg,已重绘并检查
+past-2026-acce7ae6e80c8a89,2026,1.,analysisImages,assets/audit-diagrams/prism-2026-axes.svg,SVG/prism-2026-axes.svg,条件图：先读核对报告
+past-2026-d1a3372210c1a949,2026,2.,stemImages,assets/audit-diagrams/2026-pupil-source.svg,SVG/2026-pupil-source.svg,已重绘并检查
+past-2026-d1a3372210c1a949,2026,2.,analysisImages,assets/audit-diagrams/2026-pupil-solution.svg,SVG/2026-pupil-solution.svg,条件图：先读核对报告
+past-2026-4d438e48fa3c8f09,2026,3.,stemImages,assets/audit-diagrams/2026-negative-crystal-source.svg,SVG/2026-negative-crystal-source.svg,已重绘并检查
+past-2026-4d438e48fa3c8f09,2026,3.,analysisImages,assets/audit-diagrams/2026-negative-crystal-solution.svg,SVG/2026-negative-crystal-solution.svg,已重绘并检查

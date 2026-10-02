@@ -1,0 +1,787 @@
+[
+  {
+    "file": "PNG/2016-cavity-source-350px.png",
+    "bytes": 15362,
+    "sha256": "c3c7350aff6b14dc8c08c06e8193156b93cf9175e979737bc7837f74de91c086"
+  },
+  {
+    "file": "PNG/2016-cavity-source.png",
+    "bytes": 79950,
+    "sha256": "ac716a5b8a6fc25851efea2b13210357a3cd1174cfb02f0c132354959f2629ed"
+  },
+  {
+    "file": "PNG/2016-point-source-350px.png",
+    "bytes": 14087,
+    "sha256": "7448a34c9c8e796f2c3ac9066885df7f0bd8f2a4008df379e02c3e013699aa4f"
+  },
+  {
+    "file": "PNG/2016-point-source.png",
+    "bytes": 86490,
+    "sha256": "ac84f1c7c13b5563dcac4cc8243aa8ec234def0f348c49eee652f0b54a2edadd"
+  },
+  {
+    "file": "PNG/2017-qswitch-source-350px.png",
+    "bytes": 17958,
+    "sha256": "7e3e567affc95ffc5fa4ddfcb3d4a8ef569c2689bfc0ecd40ba9daed1c42fe30"
+  },
+  {
+    "file": "PNG/2017-qswitch-source.png",
+    "bytes": 98032,
+    "sha256": "ab00bc7ccd787cf2cfb4b35d12e364b7e86c6e2dddd4e7fe52a2683f307443c1"
+  },
+  {
+    "file": "PNG/2018-homogeneous-gain-options-350px.png",
+    "bytes": 17734,
+    "sha256": "a589018cb19021d433c49aaba87b24e1b1f0da5e98a717544a2514c08752eea5"
+  },
+  {
+    "file": "PNG/2018-homogeneous-gain-options.png",
+    "bytes": 96521,
+    "sha256": "e3f831f8950bffba7f87b4c9d73b805069cab64b48b748fcf4ab6964e2956233"
+  },
+  {
+    "file": "PNG/2020-alternating-slits-350px.png",
+    "bytes": 14044,
+    "sha256": "073f001460f4308396ff0a19f90e74ea6064bc4f2bb50ffe52e99801e3488b73"
+  },
+  {
+    "file": "PNG/2020-alternating-slits.png",
+    "bytes": 88604,
+    "sha256": "95321bc00028490c223a9e197950187824dbe50d8078c9e781b4d47600005beb"
+  },
+  {
+    "file": "PNG/2021-aperture-solution-350px.png",
+    "bytes": 29778,
+    "sha256": "57aa95d906e5015392b0c4e8644ad228d183c00eede08bc0b0921e2d37b43373"
+  },
+  {
+    "file": "PNG/2021-aperture-solution.png",
+    "bytes": 182754,
+    "sha256": "ff1ed268500829806d6c0ca4ece814955a2e461a3ed385936cea19e2ad60b7b3"
+  },
+  {
+    "file": "PNG/2021-aperture-source-v2-350px.png",
+    "bytes": 9909,
+    "sha256": "15729e06e2d775cfcfc84cb9570be8667c250b15cc13b4eadfd5b1d5b272bdf6"
+  },
+  {
+    "file": "PNG/2021-aperture-source-v2.png",
+    "bytes": 58129,
+    "sha256": "3408105fd0d4707d5d33e317ceaf3df24abb367d8738e9d41fd8bda872881b65"
+  },
+  {
+    "file": "PNG/2023-double-hole-options-350px.png",
+    "bytes": 18836,
+    "sha256": "3f74e3c0e7d91468483b785f1f86e565b5e4c897a0ada9778bb1bc93b3ec0922"
+  },
+  {
+    "file": "PNG/2023-double-hole-options.png",
+    "bytes": 75194,
+    "sha256": "128d0914ce15464a634385bc72bd42c8614a9bceea6a5ba1f4762aa2c69b7c65"
+  },
+  {
+    "file": "PNG/2025-pupil-solution-350px.png",
+    "bytes": 44171,
+    "sha256": "dc0b164ba01fdd4027a5e5254f3c69a6a97bc1219be44b5cfb5df11014c84bde"
+  },
+  {
+    "file": "PNG/2025-pupil-solution.png",
+    "bytes": 273735,
+    "sha256": "ddb1f6a44a3552e3b5de17ca6bd679a4d84f9dbf9643fc9a9cab0004e34955b2"
+  },
+  {
+    "file": "PNG/2025-pupil-source-350px.png",
+    "bytes": 11860,
+    "sha256": "c0a55afd6c6c4dbb7f50ca58ec1f5b241fe6642c3ca0571df0f80f65d35baaa0"
+  },
+  {
+    "file": "PNG/2025-pupil-source.png",
+    "bytes": 73595,
+    "sha256": "09acb30a67c1e721ccd9bb543440a3b1af93c3230eab7b4bd94e32553bae46f4"
+  },
+  {
+    "file": "PNG/2025-young-source-350px.png",
+    "bytes": 11999,
+    "sha256": "9b7bc9ac02bcb37d9328e5d52fe9a4f49cba3c72b53dd832ba7bb2d5e1f37150"
+  },
+  {
+    "file": "PNG/2025-young-source.png",
+    "bytes": 68745,
+    "sha256": "cde88806fcf5fb154771b15cd7fcc30be6482197be87025915c81cb8c4c3519c"
+  },
+  {
+    "file": "PNG/2026-filter-solution-350px.png",
+    "bytes": 33328,
+    "sha256": "d29a3f25470cba93006a4f6b501f48962ab88f92faaf8a2d19b5eee187c3832b"
+  },
+  {
+    "file": "PNG/2026-filter-solution.png",
+    "bytes": 180320,
+    "sha256": "4a5b194a5adf6a34fb7179f50f6990319953e12faf009cea2dfecdc9dafdbcfe"
+  },
+  {
+    "file": "PNG/2026-negative-crystal-solution-350px.png",
+    "bytes": 37174,
+    "sha256": "5dc1be7494adad9327261bc6c2845a3827b067b011a6c1e1c1b1a58ed23d0671"
+  },
+  {
+    "file": "PNG/2026-negative-crystal-solution.png",
+    "bytes": 235634,
+    "sha256": "efb72b4f9c976e8e54ea69db421021ec68f2cc7a91cf4b305ab2307b8e5e86b2"
+  },
+  {
+    "file": "PNG/2026-negative-crystal-source-350px.png",
+    "bytes": 13709,
+    "sha256": "167e210c384e07d4e506bbed546408f99d24d8050955da2e9d9683a05cc3c601"
+  },
+  {
+    "file": "PNG/2026-negative-crystal-source.png",
+    "bytes": 80171,
+    "sha256": "8ea792a2f1ededffed0d6002dc8f66464363e7d9edb1b6e34cff508cc6fae5b4"
+  },
+  {
+    "file": "PNG/2026-pupil-solution-350px.png",
+    "bytes": 47003,
+    "sha256": "08784f462e91537789d8d887ef999efcd8f51510aa520be377af5f58d0650c54"
+  },
+  {
+    "file": "PNG/2026-pupil-solution.png",
+    "bytes": 282473,
+    "sha256": "c092f049c7ea047d396c3c87ea6a1e3d7107012b777248af0ccfacb547aeb57a"
+  },
+  {
+    "file": "PNG/2026-pupil-source-350px.png",
+    "bytes": 11233,
+    "sha256": "e5ac01d3532825b1bbc5ea5f9af05803a5407415520b8f38e4c01183dde27446"
+  },
+  {
+    "file": "PNG/2026-pupil-source.png",
+    "bytes": 71172,
+    "sha256": "75e7902e585898888d65b939622d7b0490be9db2a26483923d8dd2867f339dab"
+  },
+  {
+    "file": "PNG/blazed-grating-angle-conventions-350px.png",
+    "bytes": 37390,
+    "sha256": "ae33fc90c31bc8c19e1359b54ad9e233e7787be3031acf721b9f24e8582e1cd6"
+  },
+  {
+    "file": "PNG/blazed-grating-angle-conventions.png",
+    "bytes": 232366,
+    "sha256": "fb2e65cb9787ad059a47ce9f4685613c13a12170a918ac21f4f33a37dd896c40"
+  },
+  {
+    "file": "PNG/newton-contact-source-350px.png",
+    "bytes": 14280,
+    "sha256": "4c160eb746e977abb35b22ab2ddd3a5b21ce8ab883f0cb9ad2defbc0a7c24810"
+  },
+  {
+    "file": "PNG/newton-contact-source.png",
+    "bytes": 85012,
+    "sha256": "d68a6ca154c92586525cec0a8ab34342fc1aa449bc96c5aeeaa73d205f30e809"
+  },
+  {
+    "file": "PNG/prism-2021-axes-roof-350px.png",
+    "bytes": 34499,
+    "sha256": "a0257c6aff36b1c2be3bbb2ab55c0315fc0b3d607bd0747988c039c95ef1d745"
+  },
+  {
+    "file": "PNG/prism-2021-axes-roof.png",
+    "bytes": 215623,
+    "sha256": "38506aa6d612188403658c66fd7950e0f84a2b05c41f91becdcb3d2316a8bc95"
+  },
+  {
+    "file": "PNG/prism-2021-source-350px.png",
+    "bytes": 17904,
+    "sha256": "bf748b54a0050b87c2c5139edc40b1a8906b498b9c68fa5d4d17d36cf7c3e97c"
+  },
+  {
+    "file": "PNG/prism-2021-source.png",
+    "bytes": 109699,
+    "sha256": "77786b21b8764de35c15cd0640540fbc7ee9cfbc7ea7b644e89e4bac5d1def09"
+  },
+  {
+    "file": "PNG/prism-2025-axes-roof-350px.png",
+    "bytes": 57292,
+    "sha256": "f964a6a2a876edf772f061e500bb352a5a1b3ed0300a7e6833c51468aba46bb4"
+  },
+  {
+    "file": "PNG/prism-2025-axes-roof.png",
+    "bytes": 354043,
+    "sha256": "3d23603136d6ced3284e2c21c5a4c53b60e2dd90798ef059fe0214ca5fc503a7"
+  },
+  {
+    "file": "PNG/prism-2025-source-350px.png",
+    "bytes": 15229,
+    "sha256": "172620ddd2723adcbc7bbdb8ce4dfcaf33acd73d9325fa6b93685e912634bd59"
+  },
+  {
+    "file": "PNG/prism-2025-source.png",
+    "bytes": 97337,
+    "sha256": "403485a329fb107bc4cab389b6c1541a37acc562785af738ce6d01b6959426bd"
+  },
+  {
+    "file": "PNG/prism-2026-axes-350px.png",
+    "bytes": 51302,
+    "sha256": "9b6ed149b22c4e9af79f098cd39e8c2f49fb5e306ff1a7c9712a9a9df0ded222"
+  },
+  {
+    "file": "PNG/prism-2026-axes.png",
+    "bytes": 325499,
+    "sha256": "9c473f353fb7368936366dded5df3a673542b09ab54984e56cf8e879e76fbc8e"
+  },
+  {
+    "file": "PNG/prism-2026-source-350px.png",
+    "bytes": 20787,
+    "sha256": "b018b2854030cd3e45f7027b214749f3ed2506a289ac82cf7890346179a20185"
+  },
+  {
+    "file": "PNG/prism-2026-source.png",
+    "bytes": 133907,
+    "sha256": "b3e841525298f9a63d30d0ef6a787b8eaeb81148330f60b352e96645f78cba1e"
+  },
+  {
+    "file": "README.md",
+    "bytes": 3677,
+    "sha256": "233eda195a68bb7384d2033dc780e5c558c121466a4b53a7861a41934dd00558"
+  },
+  {
+    "file": "SVG/2016-cavity-source.svg",
+    "bytes": 4327,
+    "sha256": "3262df07e19c544038cb6085f37888b7a256fd5f4aa666804174aff23ec9b467"
+  },
+  {
+    "file": "SVG/2016-point-source.svg",
+    "bytes": 2892,
+    "sha256": "8335157f14fb4f24da7099bc0a09a90aba56576e7e8f82cefce2ac0d4446b555"
+  },
+  {
+    "file": "SVG/2017-qswitch-source.svg",
+    "bytes": 3035,
+    "sha256": "44330127cd1df03cb47fc79082e14c22c4aa18edc745350bd9bd379051bd0194"
+  },
+  {
+    "file": "SVG/2018-homogeneous-gain-options.svg",
+    "bytes": 4108,
+    "sha256": "cf4339a183859b7a4dd557b725ed9a8d474cd4cc72aff6a97600a8a7e4ff42a8"
+  },
+  {
+    "file": "SVG/2020-alternating-slits.svg",
+    "bytes": 3632,
+    "sha256": "a0fc0dae01b53a99a4defe5bc392e9670aa5fbca2998ea4768a2acf93f96eb4f"
+  },
+  {
+    "file": "SVG/2021-aperture-solution.svg",
+    "bytes": 5331,
+    "sha256": "52d8578aafa8b20f24c2f92fbaee81e9cfec920b5869807f9b21472b7dab9c27"
+  },
+  {
+    "file": "SVG/2021-aperture-source-v2.svg",
+    "bytes": 2731,
+    "sha256": "98df44faad65b9ecfa45ea91fed5fbea404588cb59ece9733ced7b1a2f04abca"
+  },
+  {
+    "file": "SVG/2023-double-hole-options.svg",
+    "bytes": 3481,
+    "sha256": "717a9f6b4bbaf3b34db300ea6b58647e05dd3637dfb59737668915eb66944891"
+  },
+  {
+    "file": "SVG/2025-pupil-solution.svg",
+    "bytes": 7257,
+    "sha256": "b93e9d7aaeb676eca62bf7a33c6e436e8897dd2847867f463230846ad6c9bb48"
+  },
+  {
+    "file": "SVG/2025-pupil-source.svg",
+    "bytes": 4032,
+    "sha256": "69c1d50605708bbb634c794e151e3b989e5b306ee7afeede6ef36cfb70dbbde6"
+  },
+  {
+    "file": "SVG/2025-young-source.svg",
+    "bytes": 3199,
+    "sha256": "429808ba4d485a8b635f75b5392e71fc21f2656d2f0960a511bcc11585e3706a"
+  },
+  {
+    "file": "SVG/2026-filter-solution.svg",
+    "bytes": 9370,
+    "sha256": "e16592aedb9fd6f958a7fadbb1279840e088b2c1ec8267b71c10742f1380b9c2"
+  },
+  {
+    "file": "SVG/2026-negative-crystal-solution.svg",
+    "bytes": 10738,
+    "sha256": "a6ca82818ef35e5006cb4b357c966787ae9989fbb43bb971fa82bccad96a437e"
+  },
+  {
+    "file": "SVG/2026-negative-crystal-source.svg",
+    "bytes": 2531,
+    "sha256": "883ad277017929f7faa41e7d31686381fae2993966ff6bf13f6009cc29feb599"
+  },
+  {
+    "file": "SVG/2026-pupil-solution.svg",
+    "bytes": 6881,
+    "sha256": "01a58c763784d4b33c5eb033c49f9b0a6286d8fd8aefc853722be1b674a8a093"
+  },
+  {
+    "file": "SVG/2026-pupil-source.svg",
+    "bytes": 3005,
+    "sha256": "2728219a6c75d7358e78b3bc27e64a8a908e694c33aef1884391660cd3463e61"
+  },
+  {
+    "file": "SVG/blazed-grating-angle-conventions.svg",
+    "bytes": 4339,
+    "sha256": "326886a9c0c30da804e522a924a32db409249f82f3067ef0712bb6a0f7afef8b"
+  },
+  {
+    "file": "SVG/newton-contact-source.svg",
+    "bytes": 2752,
+    "sha256": "d9782505142fb8eac2bc75bc5cdde553f6552eea04fb5c6d88e7d4b294fe0da1"
+  },
+  {
+    "file": "SVG/prism-2021-axes-roof.svg",
+    "bytes": 5066,
+    "sha256": "347f7c551faa2bd50dd26aa7e8ba1f015a333b20b255c346129e269545947c14"
+  },
+  {
+    "file": "SVG/prism-2021-source.svg",
+    "bytes": 3101,
+    "sha256": "4ac6da7e94b71c8b79d1ab851850c36927d54f0756596c655f61d6a6b7773215"
+  },
+  {
+    "file": "SVG/prism-2025-axes-roof.svg",
+    "bytes": 5826,
+    "sha256": "d486d2c5f86c02c4efa689d93435f987abda8917900020dcbf018685d3c86499"
+  },
+  {
+    "file": "SVG/prism-2025-source.svg",
+    "bytes": 2854,
+    "sha256": "4180b07e72871a37b04a4d47b9a898ec63e3ac2bb7ebfe4846ef9e9e1b54c126"
+  },
+  {
+    "file": "SVG/prism-2026-axes.svg",
+    "bytes": 5907,
+    "sha256": "d64810a1d01b21243b4f2ac9c63a0d9d680c12e265fcecf0f497cc6c90f53045"
+  },
+  {
+    "file": "SVG/prism-2026-source.svg",
+    "bytes": 3334,
+    "sha256": "026a15e9414b46737f95e9b377b16b1fe9502580e3a4fcde03a8dceffbd6f4ce"
+  },
+  {
+    "file": "tools/draw_all.py",
+    "bytes": 24041,
+    "sha256": "ed523c1255bf809f32e781a4b24d6267d990aeae9aaa0dc12cac5d925f9e128e"
+  },
+  {
+    "file": "tools/draw_prisms.py",
+    "bytes": 11715,
+    "sha256": "5854079fc7f67524ebabe3a225045b9f55633aabdc3a179ea0e1f997e65ca058"
+  },
+  {
+    "file": "tools/package_review.py",
+    "bytes": 6492,
+    "sha256": "833a0f2938e2b939f13ddd7ca01d305872c0b3aea0e608d056db641d5132bece"
+  },
+  {
+    "file": "tools/verify_all.py",
+    "bytes": 3823,
+    "sha256": "3a8073d42f5c9a7fa8faaf6613a0d16d31201d2b30e6c64961f5158ff735ae18"
+  },
+  {
+    "file": "tools/verify_prisms.py",
+    "bytes": 6959,
+    "sha256": "e2dcfff701f4025fd52a655a8580618975147e8a7aabac8a1f3aff6641745505"
+  },
+  {
+    "file": "中文核对报告.md",
+    "bytes": 10262,
+    "sha256": "95fed43fd9d0b037401d24f2b079f7163be4287d426473b2e78608ed07ef7ae8"
+  },
+  {
+    "file": "总览.html",
+    "bytes": 13583,
+    "sha256": "95be2aeeb9bb051b73710dfcda1f053d92e980809d53f170a7383c867396ef88"
+  },
+  {
+    "file": "新旧文件对应.csv",
+    "bytes": 4066,
+    "sha256": "0c9723ffc85b5a690c34f17445c3f2216a02a0eca9f3cdaadc3c1c3625813aed"
+  },
+  {
+    "file": "检查/2016-cavity-source-dark.png",
+    "bytes": 36060,
+    "sha256": "05f004c1f5ce6125d6f1a91b89b91c9a353d04785c0c86056aff3f4d0d9ebd08"
+  },
+  {
+    "file": "检查/2016-cavity-source-warm.png",
+    "bytes": 36230,
+    "sha256": "2688fb92f5aa02e876875c28183de44f2fc6414cb939c26aabf0544c851354af"
+  },
+  {
+    "file": "检查/2016-cavity-source-white.png",
+    "bytes": 35855,
+    "sha256": "36a254060ee6b7eff5fec5f2535a0a9a970aaf2236cdcc98e43a546a74ca3d78"
+  },
+  {
+    "file": "检查/2016-point-source-dark.png",
+    "bytes": 33755,
+    "sha256": "bbdc0027853df52349e50efe5e16b45f7406a2911685b5f9a19c72f0adedda7b"
+  },
+  {
+    "file": "检查/2016-point-source-warm.png",
+    "bytes": 33885,
+    "sha256": "c9351da14c0b1951240e7eed2bea0c6a8acb3972d36acd8d66179ecd4533b667"
+  },
+  {
+    "file": "检查/2016-point-source-white.png",
+    "bytes": 33621,
+    "sha256": "093fe9eab25f2ca59b2e9c38184f2bb22eefd7279ce0ae602329ec83e60ae870"
+  },
+  {
+    "file": "检查/2017-qswitch-source-dark.png",
+    "bytes": 41640,
+    "sha256": "f63ada753f882b64f6b19f21fdff7aa7a2551c438352466ad07aea399de18580"
+  },
+  {
+    "file": "检查/2017-qswitch-source-warm.png",
+    "bytes": 41858,
+    "sha256": "dd756c809227ed74b36b80d5c658ae1a284252d66d92131caa1da3aee8942e93"
+  },
+  {
+    "file": "检查/2017-qswitch-source-white.png",
+    "bytes": 41339,
+    "sha256": "8baf80946dbc53e6a9c042098fe00b88230bc16f701245c7546daf9ec70c7c20"
+  },
+  {
+    "file": "检查/2018-homogeneous-gain-options-dark.png",
+    "bytes": 41892,
+    "sha256": "8e40bd708e301bc14f604b926945e06aa5b26177a58327b2cbe399a48d8b5748"
+  },
+  {
+    "file": "检查/2018-homogeneous-gain-options-warm.png",
+    "bytes": 41859,
+    "sha256": "1a05fad0fb85e89b2e6c536cc26ff6148b38e7e9fbea55bad190e8ccaec5d109"
+  },
+  {
+    "file": "检查/2018-homogeneous-gain-options-white.png",
+    "bytes": 41463,
+    "sha256": "42fa5d52aa1dfaf5c7d008745e196df52bd114c5fb8e6f8c6400ce096d54de57"
+  },
+  {
+    "file": "检查/2020-alternating-slits-dark.png",
+    "bytes": 34725,
+    "sha256": "8af056793b4ca4b28d6a70110c7eec06ace512175bbc3987af1a2b664cee73e6"
+  },
+  {
+    "file": "检查/2020-alternating-slits-warm.png",
+    "bytes": 34844,
+    "sha256": "f0396a82a43ec396a9cf576c8f132c8e327433cfde1ba923652ff88d42b9526a"
+  },
+  {
+    "file": "检查/2020-alternating-slits-white.png",
+    "bytes": 34478,
+    "sha256": "12dba6ecb634c1e487928a6667f4351ac38216e9d59ff0dcc2a984ca703b3142"
+  },
+  {
+    "file": "检查/2021-aperture-solution-dark.png",
+    "bytes": 68878,
+    "sha256": "5f783aa91edf131c76b2fb36136effa15f524c1f71fc7b14196d53a499c07ed3"
+  },
+  {
+    "file": "检查/2021-aperture-solution-warm.png",
+    "bytes": 69259,
+    "sha256": "e3bf7d4d88647d4c1b56fe85e2396ccf13e3373416d5087d3c94fc49cbf5efd8"
+  },
+  {
+    "file": "检查/2021-aperture-solution-white.png",
+    "bytes": 68823,
+    "sha256": "5f475233d0aa867281e478f587f317dbe2e689c47472c9b4dd7882995b3ad9cf"
+  },
+  {
+    "file": "检查/2021-aperture-source-v2-dark.png",
+    "bytes": 22904,
+    "sha256": "ce1e29fa2271ef2beae3073986532e696488686a00f022db4adbf136cd44a518"
+  },
+  {
+    "file": "检查/2021-aperture-source-v2-warm.png",
+    "bytes": 22901,
+    "sha256": "af452be442b00b6615f93a266f780aece6fa2eef6760816c6f6403c5f634b137"
+  },
+  {
+    "file": "检查/2021-aperture-source-v2-white.png",
+    "bytes": 22705,
+    "sha256": "92af148f2c5cff9afc41e72772846008858b838eb3315e9f1b1b22c07723c79c"
+  },
+  {
+    "file": "检查/2023-double-hole-options-dark.png",
+    "bytes": 43308,
+    "sha256": "f32973a984562b3a2aaeaa6765a985ec53ebae2408ccea2dcab99d73083830a9"
+  },
+  {
+    "file": "检查/2023-double-hole-options-warm.png",
+    "bytes": 43064,
+    "sha256": "16187998a775e7a90954fb3480475be1c79de3ae0e857039359f4890ae5ff066"
+  },
+  {
+    "file": "检查/2023-double-hole-options-white.png",
+    "bytes": 42636,
+    "sha256": "da4de46fcb477147c905f72839b40f33fda1798a36a21f70fb77bdb3bcc17eff"
+  },
+  {
+    "file": "检查/2025-pupil-solution-dark.png",
+    "bytes": 103939,
+    "sha256": "4d82286053f5c84b3e8f4cda443263da84c1ecd69322cba3acfb33c6f3d1e2e3"
+  },
+  {
+    "file": "检查/2025-pupil-solution-warm.png",
+    "bytes": 104138,
+    "sha256": "ab1dcfcb4839c25ce25bfc80b1c66722c6bc115c0f53f65ad6136e29c39f8346"
+  },
+  {
+    "file": "检查/2025-pupil-solution-white.png",
+    "bytes": 103405,
+    "sha256": "66800cd3baebe453a3fcb66709467e2103a6bceb482660cad1fc2fe6faca2487"
+  },
+  {
+    "file": "检查/2025-pupil-source-dark.png",
+    "bytes": 29384,
+    "sha256": "7600d5ff002f0dce6d21ed613b3f5bdfee54c2b64d3b7151ac576670dd23132a"
+  },
+  {
+    "file": "检查/2025-pupil-source-warm.png",
+    "bytes": 29550,
+    "sha256": "1d1d1aaa2e846f2e2dcdf19f12c0e465e9c3c89fe6e734c2e707a88dfe74b908"
+  },
+  {
+    "file": "检查/2025-pupil-source-white.png",
+    "bytes": 29249,
+    "sha256": "7416b57f991e5b1e257be9404abb4ba1ae9f7004a94972c5d6a786bfeab9e792"
+  },
+  {
+    "file": "检查/2025-young-source-dark.png",
+    "bytes": 26620,
+    "sha256": "22935111b7bc5bc55765ba9dd113122cbb305789425016bde838aefa863d5e7b"
+  },
+  {
+    "file": "检查/2025-young-source-warm.png",
+    "bytes": 26728,
+    "sha256": "2dcf17de14166a52806e27875e37bbb1160e4ad6071b3a953e4880fc9f72d3ab"
+  },
+  {
+    "file": "检查/2025-young-source-white.png",
+    "bytes": 26502,
+    "sha256": "b29f3ccf277fe4ff8fb5806647d1ecff31dc09923f6f4b9ec1f5dfc6ce4121c0"
+  },
+  {
+    "file": "检查/2026-filter-solution-dark.png",
+    "bytes": 75651,
+    "sha256": "0cecfb6078713770a19a4eea20ae64859da4304d38057eea97c6b26986d4b8f2"
+  },
+  {
+    "file": "检查/2026-filter-solution-warm.png",
+    "bytes": 75758,
+    "sha256": "29a2994b5f7b3dcb6a80ab5f89e3da8d26ffb44ba9742a7259173aef2c76b62c"
+  },
+  {
+    "file": "检查/2026-filter-solution-white.png",
+    "bytes": 74742,
+    "sha256": "4ac87d28890fcaf340a9864895dc769eac086c4099717622e8aa5a1b9f86b4eb"
+  },
+  {
+    "file": "检查/2026-negative-crystal-solution-dark.png",
+    "bytes": 89867,
+    "sha256": "6672f8a6db3ffef087b6cbb114abb998a9a66de6e7f0647d810dfc949be176fc"
+  },
+  {
+    "file": "检查/2026-negative-crystal-solution-warm.png",
+    "bytes": 88978,
+    "sha256": "89adaa56ae9ddbd29d46d4557bdcddbb7bc6c325217cc30c197c2a5c4b3d5eef"
+  },
+  {
+    "file": "检查/2026-negative-crystal-solution-white.png",
+    "bytes": 88125,
+    "sha256": "9ccd76f0a997c1975f9c1e14b223ad8f49286dddd1ed9b24446a090d70fc3409"
+  },
+  {
+    "file": "检查/2026-negative-crystal-source-dark.png",
+    "bytes": 32315,
+    "sha256": "6177aa2ee818c4694e843a05b8c7189b00050fa768b33d2d7ad406b40b877a40"
+  },
+  {
+    "file": "检查/2026-negative-crystal-source-warm.png",
+    "bytes": 32279,
+    "sha256": "48dbc77f1fa8decd2235993a56202eb244081fb642b20e17ba29c85fbccffc29"
+  },
+  {
+    "file": "检查/2026-negative-crystal-source-white.png",
+    "bytes": 31908,
+    "sha256": "42102a4a49bc3553841e898f207342d50165b88edd311db4e3f1e6d9f5ba51cc"
+  },
+  {
+    "file": "检查/2026-pupil-solution-dark.png",
+    "bytes": 111707,
+    "sha256": "6c6adfd1a28e98c3607c479a90bb611d50b58ff4c18f62b51ca55e3284ed9b2f"
+  },
+  {
+    "file": "检查/2026-pupil-solution-warm.png",
+    "bytes": 111510,
+    "sha256": "4788cf8afb6bb3f44023f80b1dd58abe24c189aa0dbd56a62914e26353fb3630"
+  },
+  {
+    "file": "检查/2026-pupil-solution-white.png",
+    "bytes": 110306,
+    "sha256": "a7cafbc0cf2ef25badd242545b82b4d75a63f83dac44bd8c5fec4dc9dec2ad19"
+  },
+  {
+    "file": "检查/2026-pupil-source-dark.png",
+    "bytes": 26977,
+    "sha256": "b1786ff0cfe17c9353ccd00d9f796b6167e50a9b0d6a935e2ee855d5345c74b5"
+  },
+  {
+    "file": "检查/2026-pupil-source-warm.png",
+    "bytes": 27081,
+    "sha256": "d25dbf180de05a27f64147dd5cd3e3b2b1337ace9ea6c834317868e9218a7b61"
+  },
+  {
+    "file": "检查/2026-pupil-source-white.png",
+    "bytes": 26896,
+    "sha256": "3a5b541a2df35be748f76e5db0924940624cfcb7f300079e1eb64b5727e38876"
+  },
+  {
+    "file": "检查/blazed-grating-angle-conventions-dark.png",
+    "bytes": 91474,
+    "sha256": "8e0da1887da6d4ea876457e6b91ed5f1b2eafd9415edfed319f8c0a90b351946"
+  },
+  {
+    "file": "检查/blazed-grating-angle-conventions-warm.png",
+    "bytes": 91663,
+    "sha256": "02c16b923ba0058daf9f607035bb77807458af2b8ea9a86cf10f3ce2be1854ef"
+  },
+  {
+    "file": "检查/blazed-grating-angle-conventions-white.png",
+    "bytes": 90905,
+    "sha256": "ab5ce2b0622923e41c80608190eb33d7a5f64a50339ffe4801dc7dfb623bb67e"
+  },
+  {
+    "file": "检查/newton-contact-source-dark.png",
+    "bytes": 33983,
+    "sha256": "2dba8226d6ff68f718b6e0177b9c6ee7ef66580bed287bc460bce08eecd4ec81"
+  },
+  {
+    "file": "检查/newton-contact-source-warm.png",
+    "bytes": 33979,
+    "sha256": "3122477e2f912afa4e605847c2119e2a3b236b31364f50d06b1d94978695affc"
+  },
+  {
+    "file": "检查/newton-contact-source-white.png",
+    "bytes": 33497,
+    "sha256": "2c8e132d77df5fc4465f227832dbd819224f9cd5ad10b34d686aa281861aac5a"
+  },
+  {
+    "file": "检查/prism-2021-axes-roof-dark.png",
+    "bytes": 82537,
+    "sha256": "f2b58690af1cfa0685c8be1750b87e7616f341f4a391f016c15ab51263b2551f"
+  },
+  {
+    "file": "检查/prism-2021-axes-roof-warm.png",
+    "bytes": 81804,
+    "sha256": "2b8e37c12309f984676e97af60fdb57461e35308dc671bf5a484cc123e4e685c"
+  },
+  {
+    "file": "检查/prism-2021-axes-roof-white.png",
+    "bytes": 81016,
+    "sha256": "9b2850ccf2b55f55838036f200940ef541d999522e420c8377d39d116352aafb"
+  },
+  {
+    "file": "检查/prism-2021-source-dark.png",
+    "bytes": 42220,
+    "sha256": "3fec34b0e34ae938430846dc4be217cfd1a9ebb2b9fd59e0a843143e2ca47587"
+  },
+  {
+    "file": "检查/prism-2021-source-warm.png",
+    "bytes": 42205,
+    "sha256": "c4df708fff98e8fe87f70d79e5695573c4e3b5fa8c3751aade21329056dfaa7c"
+  },
+  {
+    "file": "检查/prism-2021-source-white.png",
+    "bytes": 41694,
+    "sha256": "297b3e064b5d53ece038671bc1789e487d803427d37295926e21020d6f582341"
+  },
+  {
+    "file": "检查/prism-2025-axes-roof-dark.png",
+    "bytes": 134843,
+    "sha256": "db235d45e48fc41deb917aa3fb5f4a040c05c37e2ad88ecbf4040b006287656b"
+  },
+  {
+    "file": "检查/prism-2025-axes-roof-warm.png",
+    "bytes": 134696,
+    "sha256": "4538d01df91635ca1143e2e9abaea0f32b7d48916292ea5e40feb7dc2ab72fee"
+  },
+  {
+    "file": "检查/prism-2025-axes-roof-white.png",
+    "bytes": 133554,
+    "sha256": "45b13ee5e9905e7dc0882e23d37740710282623903ebc9ceec5673b6d942b207"
+  },
+  {
+    "file": "检查/prism-2025-source-dark.png",
+    "bytes": 36073,
+    "sha256": "29454c664e98061a66f33dfec0970f10d1989bdbbe626a2270954ec477202eef"
+  },
+  {
+    "file": "检查/prism-2025-source-warm.png",
+    "bytes": 36139,
+    "sha256": "fe5ba1684089ede83f2a8b7ef619a6ed9ef8b9f5adf887533c8173011c2096e7"
+  },
+  {
+    "file": "检查/prism-2025-source-white.png",
+    "bytes": 35846,
+    "sha256": "b1cd9d5e04caf3986f5ee64051fc432501475c3e3063e30914f51c9476a7e83c"
+  },
+  {
+    "file": "检查/prism-2026-axes-dark.png",
+    "bytes": 123087,
+    "sha256": "855b22e171eebd0bc48a05a84dcc44e540259e50de7496a2c07399395fd7b316"
+  },
+  {
+    "file": "检查/prism-2026-axes-warm.png",
+    "bytes": 122715,
+    "sha256": "ae661bbc5580b1a403eaec0dc6c04978b8349a664b940c5de6a58e88746878e8"
+  },
+  {
+    "file": "检查/prism-2026-axes-white.png",
+    "bytes": 121617,
+    "sha256": "4d99bcc7c6d90983a377958e999c5808ead34a1ab012e89593ca8643abcb9412"
+  },
+  {
+    "file": "检查/prism-2026-source-dark.png",
+    "bytes": 49403,
+    "sha256": "d6cde78ac314fb987dd6cd5f829126d9145927cc3ece022672b1e10223acc5f3"
+  },
+  {
+    "file": "检查/prism-2026-source-warm.png",
+    "bytes": 49012,
+    "sha256": "f96c6c1f89759d9dc63e704005f8c8668b4863d34189a679d74f6bb5e8c3f4d3"
+  },
+  {
+    "file": "检查/prism-2026-source-white.png",
+    "bytes": 48435,
+    "sha256": "128faaf284dffab4c01fc7ed2c9544c8f69d1ebcfa8bcd1184b3ce17954867ee"
+  },
+  {
+    "file": "棱镜核对报告.md",
+    "bytes": 10961,
+    "sha256": "c8d93739a7fb3e54fc945c3ac958723a8000d42cf4b351a34f4cb6ff6c1ba79f"
+  },
+  {
+    "file": "物理校验.json",
+    "bytes": 1571,
+    "sha256": "5a740bb5ab2b91fa335ac2ee1116c80249b16cf2e39a237ea8ea99db216b097e"
+  },
+  {
+    "file": "矩阵校验.json",
+    "bytes": 78658,
+    "sha256": "3499e92ad8a4836c5e920b158c2bdb1399f11b6e3cc13043943c8cc24e58e78b"
+  },
+  {
+    "file": "验证结果.json",
+    "bytes": 18263,
+    "sha256": "446cd02f8cfa9b8316e59ad9c5d5cfe290922e837ff3eaff5914f5074dda3da5"
+  }
+]

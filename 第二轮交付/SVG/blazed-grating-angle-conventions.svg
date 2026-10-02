@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="960" viewBox="0 0 900 960" role="img" aria-labelledby="title description">
+<title id="title">闪耀光栅 / 角定义与条件</title><desc id="description">示意位置不代表原题数值；透明背景，可编辑路径与文字。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#302D27" stroke-width="1.3"/></marker>
+<marker id="answer-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#346D68" stroke-width="1.4"/></marker>
+</defs>
+<style>
+.line {fill:none;stroke:#302D27;stroke-width:1.2;stroke-linejoin:round;stroke-linecap:round;vector-effect:non-scaling-stroke}
+.ray {stroke-width:1.5}
+.answer {stroke:#346D68;stroke-width:1.5}
+text {fill:#302D27;font:28px 'Noto Sans CJK SC','Microsoft YaHei',sans-serif}
+.math {font-family:'DejaVu Sans',sans-serif;font-style:italic;font-size:30px}
+.heading {font-size:30px;font-weight:600}
+.note {font-size:25px}
+.number {font-size:25px;fill:#346D68}
+.result {fill:#346D68}
+.caution {fill:#976333}
+</style>
+<text x="35" y="45" class="heading" text-anchor="start">闪耀光栅 / 角定义与条件</text>
+<path class="line ray" d="M90,325 L270,270 L285,325 L465,270 L480,325 L660,270 L675,325 L825,279"/>
+<path class="line " d="M70,325 L850,325" stroke-dasharray="5 6"/>
+<style>
+ .secondary{stroke:#976333;stroke-width:1.5}
+ @media (prefers-color-scheme:dark){
+ .line{stroke:#E8DCC3}text{fill:#E8DCC3}.answer{stroke:#9CCBBB}.result,.number{fill:#9CCBBB}
+ .secondary{stroke:#DDB587}.caution{fill:#DDB587}
+ #arrow path{stroke:#E8DCC3}#answer-arrow path{stroke:#9CCBBB}
+ circle[style]{fill:#E8DCC3!important}
+ }
+ </style>
+<path class="line " d="M465,270 L465,95" stroke-dasharray="5 6"/>
+<text x="480" y="100" class="note" text-anchor="start">栅面法线</text>
+<path class="line " d="M465,270 L401,61" stroke-dasharray="5 6"/>
+<text x="268" y="77" class="note" text-anchor="start">槽面法线</text>
+<path class="line " d="M 465 179 A91 91 0 0 0 438.4 183" />
+<text x="427" y="166" class="math" text-anchor="start">γ</text>
+<text x="685" y="356" class="note" text-anchor="start">栅面</text>
+<text x="526" y="285" class="note" text-anchor="start">槽面</text>
+<path class="line " d="M285,385 L480,385" marker-end="url(#arrow)" marker-start="url(#arrow)"/>
+<path class="line " d="M285,376 L285,394"/>
+<path class="line " d="M480,376 L480,394"/>
+<text x="382.5" y="421" class="note" text-anchor="middle">d</text>
+<path class="line " d="M35,449 L865,449" stroke-dasharray="5 6"/>
+<text x="45" y="502" class="heading" text-anchor="start">沿槽面法线入射</text>
+<text x="45" y="547" class="note" text-anchor="start">Littrow：α = β = γ</text>
+<text x="45" y="591" class="math" text-anchor="start">mλ = 2d sin γ</text>
+<path class="line " d="M682,575 L682,487" stroke-dasharray="5 6"/>
+<path class="line ray" d="M651,500 L686,574" marker-end="url(#arrow)"/>
+<path class="line answer" d="M678,576 L643,502" marker-end="url(#answer-arrow)"/>
+<path class="line " d="M625,591 L732,556"/>
+<text x="729" y="527" class="note" text-anchor="start">α = β</text>
+<text x="45" y="665" class="heading" text-anchor="start">沿栅面法线入射</text>
+<text x="45" y="710" class="note" text-anchor="start">α = 0，闪耀方向 β = 2γ</text>
+<text x="45" y="754" class="math" text-anchor="start">mλ = d sin 2γ</text>
+<path class="line " d="M682,735 L682,637" stroke-dasharray="5 6"/>
+<path class="line ray" d="M686,641 L686,735" marker-end="url(#arrow)"/>
+<path class="line answer" d="M682,735 L608,641" marker-end="url(#answer-arrow)"/>
+<path class="line " d="M630,752 L737,717"/>
+<text x="709" y="680" class="note" text-anchor="start">β = 2γ</text>
+<path class="line " d="M35,798 L865,798" stroke-dasharray="5 6"/>
+<text x="40" y="844" class="note" text-anchor="start">α、β 为相对栅面法线的同侧正角。</text>
+<text x="40" y="887" class="note" text-anchor="start">原题“衍射角 30°”未明确是否指 γ 或 β；</text>
+<text x="40" y="930" class="note" text-anchor="start">本图不将 30°直接赋给槽面角。</text>
+</svg>

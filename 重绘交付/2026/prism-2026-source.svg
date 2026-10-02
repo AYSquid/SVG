@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="630" viewBox="0 0 900 630" role="img" aria-labelledby="title description">
+<title id="title">2026 三棱镜系统：题图</title><desc id="description">两条斜光线在中间棱镜内部直接相交，不在交点反射。保留入射坐标和 a、b。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#302D27" stroke-width="1.3"/></marker>
+<marker id="answer-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#346D68" stroke-width="1.4"/></marker>
+</defs>
+<style>
+.line {fill:none;stroke:#302D27;stroke-width:1.2;stroke-linejoin:round;stroke-linecap:round;vector-effect:non-scaling-stroke}
+.ray {stroke-width:1.5}
+.answer {stroke:#346D68;stroke-width:1.5}
+text {fill:#302D27;font:28px 'Noto Sans CJK SC','Microsoft YaHei',sans-serif}
+.math {font-family:'DejaVu Sans',sans-serif;font-style:italic;font-size:30px}
+.heading {font-size:30px;font-weight:600}
+.note {font-size:25px}
+.number {font-size:25px;fill:#346D68}
+.result {fill:#346D68}
+.caution {fill:#976333}
+</style>
+<text x="35" y="44" class="heading" text-anchor="start">2026  /  题图</text>
+<g id="original-geometry">
+<path class="line " d="M248,315 L263,161 L343,125 L420,156 L248,315"/>
+<path class="line " d="M380,327 L470,268 L575,374 L438,542 L380,327"/>
+<path class="line " d="M433,520 L558,357"/>
+<path class="line " d="M548,130 L658,266 L758,135 L548,130"/>
+<path class="line " d="M644,249 L739,135"/>
+<path class="line ray" d="M209,242 L326,242" marker-end="url(#arrow)"/>
+<path class="line ray" d="M326,242 L321,135" marker-end="url(#arrow)"/>
+<path class="line ray" d="M321,135 L535,423" marker-end="url(#arrow)"/>
+<path class="line ray" d="M535,423 L398,414" marker-end="url(#arrow)"/>
+<path class="line ray" d="M398,414 L670,133" marker-end="url(#arrow)"/>
+<path class="line ray" d="M670,133 L704,206" marker-end="url(#arrow)"/>
+<path class="line ray" d="M704,206 L620,219" marker-end="url(#arrow)"/>
+<path class="line ray" d="M620,219 L675,52" marker-end="url(#arrow)"/>
+<text x="568" y="305" class="math" text-anchor="start">a</text>
+<text x="704" y="67" class="math" text-anchor="start">b</text>
+<path class="line ray" d="M90,242 L90,183" marker-end="url(#arrow)"/>
+<text x="90" y="168" class="math" text-anchor="middle">x</text>
+<path class="line ray" d="M90,242 L149,242" marker-end="url(#arrow)"/>
+<text x="173" y="251" class="math" text-anchor="middle">z</text>
+<circle class="line " cx="90" cy="242" r="9"/>
+<circle class="line " cx="90" cy="242" r="2.2" style="fill:#302D27;stroke:none"/>
+<text x="65" y="276" class="math" text-anchor="middle">y</text>
+</g>
+<text x="35" y="602" class="note" text-anchor="start">中间光线相交处没有反射面。</text>
+</svg>

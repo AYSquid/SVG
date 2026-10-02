@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1080" viewBox="0 0 900 1080" role="img" aria-labelledby="title description">
+<title id="title">2025 / 虚物与入瞳作图</title><desc id="description">示意位置不代表原题数值；透明背景，可编辑路径与文字。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#302D27" stroke-width="1.3"/></marker>
+<marker id="answer-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" markerUnits="userSpaceOnUse" orient="auto"><path d="M1 1 L9 5 L1 9" fill="none" stroke="#346D68" stroke-width="1.4"/></marker>
+</defs>
+<style>
+.line {fill:none;stroke:#302D27;stroke-width:1.2;stroke-linejoin:round;stroke-linecap:round;vector-effect:non-scaling-stroke}
+.ray {stroke-width:1.5}
+.answer {stroke:#346D68;stroke-width:1.5}
+text {fill:#302D27;font:28px 'Noto Sans CJK SC','Microsoft YaHei',sans-serif}
+.math {font-family:'DejaVu Sans',sans-serif;font-style:italic;font-size:30px}
+.heading {font-size:30px;font-weight:600}
+.note {font-size:25px}
+.number {font-size:25px;fill:#346D68}
+.result {fill:#346D68}
+.caution {fill:#976333}
+</style>
+<text x="35" y="45" class="heading" text-anchor="start">2025 / 虚物与入瞳作图</text>
+<path class="line " d="M40,255 L865,255" stroke-dasharray="5 6"/>
+<path class="line " d="M270,116 L270,394"/>
+<style>
+ .secondary{stroke:#976333;stroke-width:1.5}
+ @media (prefers-color-scheme:dark){
+ .line{stroke:#E8DCC3}text{fill:#E8DCC3}.answer{stroke:#9CCBBB}.result,.number{fill:#9CCBBB}
+ .secondary{stroke:#DDB587}.caution{fill:#DDB587}
+ #arrow path{stroke:#E8DCC3}#answer-arrow path{stroke:#9CCBBB}
+ circle[style]{fill:#E8DCC3!important}
+ }
+ </style>
+<path class="line " d="M264,126 L270,116 L276,126"/>
+<path class="line " d="M264,384 L270,394 L276,384"/>
+<text x="270" y="96" class="math" text-anchor="middle">L₁</text>
+<path class="line " d="M662,116 L662,394"/>
+<path class="line " d="M656,126 L662,116 L668,126"/>
+<path class="line " d="M656,384 L662,394 L668,384"/>
+<text x="662" y="96" class="math" text-anchor="middle">L₂</text>
+<path class="line " d="M505.2,151 L505.2,213.75"/>
+<path class="line " d="M505.2,296.25 L505.2,359"/>
+<circle class="line " cx="505.2" cy="255" r="2.4" style="fill:#302D27;stroke:none"/>
+<circle class="line " cx="505.2" cy="255" r="2.4" style="fill:#302D27;stroke:none"/>
+<text x="483.2" y="243" class="math" text-anchor="middle">Q</text>
+<circle class="line " cx="505.2" cy="213.75" r="2.4" style="fill:#302D27;stroke:none"/>
+<text x="530.2" y="203.75" class="math" text-anchor="middle">Q₁</text>
+<circle class="line " cx="505.2" cy="296.25" r="2.4" style="fill:#302D27;stroke:none"/>
+<text x="533.2" y="325.25" class="math" text-anchor="middle">Q₂</text>
+<circle class="line " cx="158" cy="255" r="2.4" style="fill:#302D27;stroke:none"/>
+<text x="158" y="289" class="math" text-anchor="middle">F₁</text>
+<circle class="line " cx="382" cy="255" r="2.4" style="fill:#302D27;stroke:none"/>
+<text x="382" y="289" class="math" text-anchor="middle">F₁′</text>
+<circle class="line " cx="550" cy="255" r="2.4" style="fill:#302D27;stroke:none"/>
+<text x="550" y="289" class="math" text-anchor="middle">F₂</text>
+<circle class="line " cx="774" cy="255" r="2.4" style="fill:#302D27;stroke:none"/>
+<text x="774" y="289" class="math" text-anchor="middle">F₂′</text>
+<path class="line ray" d="M830,255 L830,230.25"/>
+<path class="line ray" d="M830,244.605 L830,240.645" marker-end="url(#arrow)"/>
+<circle class="line " cx="830" cy="255" r="2.4" style="fill:#302D27;stroke:none"/>
+<text x="840" y="285" class="math" text-anchor="middle">A′</text>
+<circle class="line " cx="830" cy="230.25" r="2.4" style="fill:#302D27;stroke:none"/>
+<text x="845" y="213.25" class="math" text-anchor="middle">B′</text>
+<path class="line answer" d="M56.1818,292.5 L270,332.859 L505.2,213.75 L662,134.344 L830,230.25"/>
+<path class="line answer" d="M732.56,174.624 L759.44,189.969" marker-end="url(#answer-arrow)"/>
+<path class="line answer" d="M270,332.859 L382,354" stroke-dasharray="5 6"/>
+<path class="line secondary" d="M56.1818,217.5 L270,307.078 L505.2,296.25 L662,289.031 L830,230.25"/>
+<path class="line secondary" d="M732.56,264.343 L759.44,254.938" marker-end="url(#arrow)"/>
+<path class="line secondary" d="M270,307.078 L382,354" stroke-dasharray="5 6"/>
+<path class="line answer" d="M382,255 L382,354" stroke-dasharray="5 6"/>
+<circle class="line " cx="382" cy="255" r="2.4" style="fill:#302D27;stroke:none"/>
+<text x="402" y="240" class="math" text-anchor="middle">A</text>
+<circle class="line " cx="382" cy="354" r="2.4" style="fill:#302D27;stroke:none"/>
+<text x="402" y="384" class="math" text-anchor="middle">B</text>
+<circle class="line " cx="56.1818" cy="292.5" r="2.4" style="fill:#302D27;stroke:none"/>
+<text x="56.1818" y="325.5" class="math" text-anchor="middle">P₁</text>
+<circle class="line " cx="56.1818" cy="217.5" r="2.4" style="fill:#302D27;stroke:none"/>
+<text x="56.1818" y="201.5" class="math" text-anchor="middle">P₂</text>
+<circle class="line " cx="56.1818" cy="255" r="2.4" style="fill:#302D27;stroke:none"/>
+<text x="36.1818" y="263" class="math" text-anchor="middle">P</text>
+<text x="40" y="461" class="note" text-anchor="start">① 实线逐面折射并同到 B′；虚线交于虚物 B。</text>
+<text x="40" y="504" class="note" text-anchor="start">入瞳编号按共轭对应：Q₁ → P₁（下），Q₂ → P₂（上）。</text>
+<path class="line " d="M35,541 L865,541" stroke-dasharray="5 6"/>
+<text x="40" y="595" class="heading" text-anchor="start">② 光阑经 L₁ 向物方成像，得到入瞳</text>
+<path class="line " d="M40,815 L865,815" stroke-dasharray="5 6"/>
+<path class="line " d="M270,703 L270,927"/>
+<path class="line " d="M264,713 L270,703 L276,713"/>
+<path class="line " d="M264,917 L270,927 L276,917"/>
+<text x="270" y="683" class="math" text-anchor="middle">L₁</text>
+<path class="line answer" d="M505.2,760 L270,815 L56.1818,865"/>
+<path class="line answer" d="M180.196,836 L145.985,844" marker-end="url(#answer-arrow)"/>
+<path class="line secondary" d="M505.2,760 L270,760 L56.1818,865"/>
+<path class="line secondary" d="M180.196,804.1 L145.985,820.9" marker-end="url(#arrow)"/>
+<circle class="line " cx="505.2" cy="760" r="2.4" style="fill:#302D27;stroke:none"/>
+<text x="505.2" y="743" class="math" text-anchor="middle">Q₁</text>
+<circle class="line " cx="505.2" cy="815" r="2.4" style="fill:#302D27;stroke:none"/>
+<text x="505.2" y="847" class="math" text-anchor="middle">Q</text>
+<circle class="line " cx="56.1818" cy="865" r="2.4" style="fill:#302D27;stroke:none"/>
+<text x="56.1818" y="897" class="math" text-anchor="middle">P₁</text>
+<circle class="line " cx="56.1818" cy="815" r="2.4" style="fill:#302D27;stroke:none"/>
+<text x="56.1818" y="847" class="math" text-anchor="middle">P</text>
+<text x="40" y="980" class="note" text-anchor="start">该布局为虚物；不能预先把 AB 放到 L₁ 左侧。</text>
+<text x="40" y="1023" class="note" text-anchor="start">示意距离用于共轭校验，不是原题新增的毫米数。</text>
+</svg>
